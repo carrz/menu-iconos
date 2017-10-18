@@ -1,0 +1,138 @@
+.menu{
+	width: 1000px;
+	height: 250px;
+	position: absolute;
+}
+.facebook{
+	width: 200px;
+	height: 250px;
+	border: 1px solid transparent;
+	position: relative;
+}
+.fa-facebook-square{
+	font-size: 50px;
+	margin-left: 75px;
+    margin-top: 10px;
+}
+.t-facebook{
+	text-align: center;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 15px;
+}
+.n-facebook{
+	text-align: center;
+}
+.p-facebook{
+	text-align: justify;
+    font-size: 13px;
+    padding: 5px;
+    font-family: 'Dosis', sans-serif;
+}
+.instagram{
+	width: 200px;
+	height: 250px;
+	border: 1px solid transparent;
+	position: absolute;
+	left: 201px;
+	top: 0px;
+}
+.fa-instagram{
+	font-size: 50px;
+	margin-left: 75px;
+    margin-top: 10px;
+}
+.t-instagram{
+	text-align: center;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 15px;
+}
+.n-instagram{
+	text-align: center;
+}
+.p-instagram{
+	text-align: justify;
+    font-size: 13px;
+    padding: 5px;
+    font-family: 'Dosis', sans-serif;
+}
+.twitter{
+	width: 200px;
+	height: 250px;
+	border: 1px solid transparent;
+	position: absolute;
+	left: 402px;
+	top: 0px;
+}
+.fa-twitter-square{
+	font-size: 50px;
+	margin-left: 75px;
+    margin-top: 10px;
+}
+.t-twitter{
+	text-align: center;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 15px;
+}
+.n-twitter{
+	text-align: center;
+}
+.p-twitter{
+	text-align: justify;
+    font-size: 13px;
+    padding: 5px;
+    font-family: 'Dosis', sans-serif;
+}
+.whatsapp{
+	width: 200px;
+	height: 250px;
+	border: 1px solid transparent;
+	position: absolute;
+	left: 603px;
+	top: 0px;
+}
+.fa-whatsapp{
+	font-size: 50px;
+	margin-left: 75px;
+    margin-top: 10px;
+}
+.t-whatsapp{
+	text-align: center;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 15px;
+}
+.n-whatsapp{
+	text-align: center;
+}
+.p-whatsapp{
+	text-align: justify;
+    font-size: 13px;
+    padding: 5px;
+    font-family: 'Dosis', sans-serif;
+}
+.youtube{
+	width: 200px;
+	height: 250px;
+	border: 1px solid transparent;
+	position: absolute;
+	left: 804px;
+	top: 0px;
+}
+.fa-youtube-square{
+	font-size: 50px;
+	margin-left: 75px;
+    margin-top: 10px;
+}
+.t-youtube{
+	text-align: center;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 15px;
+}
+.n-youtube{
+	text-align: center;
+}
+.p-youtube{
+	text-align: justify;
+    font-size: 13px;
+    padding: 5px;
+    font-family: 'Dosis', sans-serif;
+}
